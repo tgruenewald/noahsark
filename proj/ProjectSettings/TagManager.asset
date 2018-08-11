@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grunt
+  - marker
+  - wind
+  - rock
+  - AutoButton
+  - RedirectButton
+  - tower_menu
+  - tower_meredith
+  - supercharge
+  - border
+  - selected_tower
+  - tower
+  - gruntSpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3141270861
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 264005315
+    locked: 0
+  - name: ground2
+    uniqueID: 1722891577
+    locked: 0
+  - name: player
+    uniqueID: 3740806305
+    locked: 0
